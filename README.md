@@ -5,23 +5,23 @@ Only tested in Big Sur
 
 ### Spec
 
-I5-8265U  
-UHD 620  
-Nvidia MX250  
-ALC256  
-WD SSD 512GB  
-2 USB3  
+- I5-8265U  
+- UHD 620  
+- Nvidia MX250  
+- ALC256  
+- WD SSD 512GB  
+- 2 USB3  
 
 ### Working
 
-Sound (speaker and headphone jack)  
-Full QE/CI (accelerated graphics)  
-Brightness control via setting  
-all USB-A 3.0 port(USB-C not test)  
-Webcam  
+- Sound (speaker and headphone jack)  
+- Full QE/CI (accelerated graphics)  
+- Brightness control via setting  
+- all USB-A 3.0 port(USB-C not test)  
+- Webcam  
 
 ### Know not working
 
-Brightness adjust button (Up with insert botton NEED REMAP WITH DSDT)  
-Wifi need replace with Intel  
-MX250  
+- Brightness adjust button (Up with insert botton NEED REMAP WITH DSDT)  
+- Wifi need replace with Intel  
+- MX250  
