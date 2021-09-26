@@ -1,7 +1,7 @@
 # Acer-Fun-S40-51-57MR-Hackintosh
 OpenCore 0.6.9 EFI Hackintosh For Acer S40-51-57MR
 
-Only tested in Big Sur
+Only tested in Big Sur 11.2.3
 
 ### Spec
 
